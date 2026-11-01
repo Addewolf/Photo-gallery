@@ -1,0 +1,87 @@
+[
+  {
+    "src": "images/photo-01.jpg",
+    "title": "Morning frost I",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-02.jpg",
+    "title": "Morning frost II",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-03.jpg",
+    "title": "Frost in the details",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-04.jpg",
+    "title": "Through the window",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-05.jpg",
+    "title": "Elskåp — grey and weathered",
+    "category": "Elskåp"
+  },
+  {
+    "src": "images/photo-06.jpg",
+    "title": "Rosehips",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-07.jpg",
+    "title": "Autumn colours",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-08.jpg",
+    "title": "Snowbound cabinet",
+    "category": "Elskåp"
+  },
+  {
+    "src": "images/photo-09.jpg",
+    "title": "The autumn path",
+    "category": "Other Moments"
+  },
+  {
+    "src": "images/photo-10.jpg",
+    "title": "Lights in the park",
+    "category": "Other Moments"
+  },
+  {
+    "src": "images/photo-11.jpg",
+    "title": "Blue hour",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-12.jpg",
+    "title": "Winter mist",
+    "category": "Nature"
+  },
+  {
+    "src": "images/photo-13.jpg",
+    "title": "A quiet cabinet",
+    "category": "Elskåp"
+  },
+  {
+    "src": "images/photo-14.jpg",
+    "title": "Layers of tags",
+    "category": "Elskåp"
+  },
+  {
+    "src": "images/photo-15.jpg",
+    "title": "Liberalism conspiracy",
+    "category": "Elskåp"
+  },
+  {
+    "src": "images/photo-16.jpg",
+    "title": "Street-side collection",
+    "category": "Elskåp"
+  },
+  {
+    "src": "images/photo-17.jpg",
+    "title": "A winter tag",
+    "category": "Elskåp"
+  }
+]
